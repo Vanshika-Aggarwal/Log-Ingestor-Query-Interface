@@ -1,0 +1,47 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# SQLite database
+logs.db
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and data files
+*.log
+*.sqlite3
+*.sqlite
+
+# Generated files
+*.pyc
+*.pyo
+*.pyz
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment configuration
+*.env
+.env.local
+.env.*.local
+.env.test
+.env.prod
+.env.dev
+
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Dependency directories
+venv/
+env/
